@@ -19,7 +19,6 @@ Agilent NGS Workstation              | :warning: Option B configuration only
 Eppendorf twin.tec 96 PCR plate      | Eppendorf, cat# 0030 128.672 (int); 951020460 (US)
 Nunc deepwell 1.3 mL plate           | Thermo Scientific, cat# 260251
 ABgene 2.2 mL storage plate Mk.II    | Thermo Scientific, cat# AB-0933
-Deepwell plate adaptor on position 6 | Agilent Technologies, cat# G5498B#012
 Labware definitions                  | Provided in `all_labware_liquids.vzp`
 Liquid classes definition            | Provided in `all_labware_liquids.vzp`
 
@@ -27,7 +26,24 @@ Liquid classes definition            | Provided in `all_labware_liquids.vzp`
 
 #### Included files ####
 ```
-{find * -type f}
+LICENSE
+README.md
+all_labware_liquids.vzp
+nextera-flex.VWForm
+nextera-flex.js
+nextera-flex.pro
+nextera-flex.rst
+nextera-flex_double-spri.pro
+nextera-flex_filler.pro
+nextera-flex_pcr.pro
+nextera-flex_setup1.pro
+nextera-flex_setup2.pro
+nextera-flex_spri.pro
+nextera-flex_wash.pro
+resources/clear_inventory.bat
+resources/1313497517_media_controls_light_play.png
+resources/clear_inventory.sql
+resources/1313497192_media_controls_light_pause.png
 ```
 
 ## Installation ##
